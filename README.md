@@ -4,7 +4,7 @@
 
 每一步做了标签，所以，你可以容易的在你本地克隆该内容：
 
-    https://github.com/ee-studio/profile-viewer-tutorial-cn.git
+    git clone https://github.com/ee-studio/profile-viewer-tutorial-cn.git
 
 然后，你可以根据本教程的指示，根据库里的提交一步一步的完成。
 
