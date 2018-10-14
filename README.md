@@ -4,18 +4,18 @@
 
 每一步做了标签，所以，你可以容易的在你本地克隆该内容：
 
-    git clone git@github.com:EurekaChen/profile-viewer-tutorial-cn.git
+    https://github.com/ee-studio/profile-viewer-tutorial-cn.git
 
 然后，你可以根据本教程的指示，根据库里的提交一步一步的完成。
 
 例如，要从初始化开始，则移到第一步：
 
-    git checkout tutorials/lunch-break/steps/01
+    git checkout step1
 
 需设置一个Web服务器来托管这些内容。
 
 然后，到第二步：
 
-git checkout tutorials/lunch-break/steps/02
+    git checkout step2
 
 刷新浏览器。
